@@ -62,9 +62,7 @@ const Chart = ({data: {confirmed, deaths, recovered}, country}) => {
 
         ):null
     )
-
-
-
+    
     return (
         <div className={style.Container}>
            {country ? barChar : LinChart}
