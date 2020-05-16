@@ -1,8 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-* https://sleepy-kilby-eb8c8d.netlify.app/
+* 😉here https://sleepy-kilby-eb8c8d.netlify.app/
 
-![Uploading Covide-19.gif…]()
+![Covide-19](https://user-images.githubusercontent.com/63882261/82126424-3cdc8a00-979c-11ea-88f9-f7e87af37d6f.gif)
+
 
 ## Available Scripts
 
