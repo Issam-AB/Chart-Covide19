@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.9.14",
     "axios": "^0.19.2",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "classnames": "^2.2.6",
     "countup": "^1.8.2",
     "cra-template": "1.0.3",
